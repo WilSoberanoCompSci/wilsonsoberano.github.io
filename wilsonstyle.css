@@ -1,0 +1,17 @@
+wilsonstyle.css
+
+/* Apply background color to the whole page */ 
+body { 
+background-color: lightyellow; 
+font-family: Arial, sans-serif; 
+} 
+/* Make all paragraphs blue */ 
+p { 
+color: purple; 
+font-size: 18px; 
+} 
+/* Make the main heading red */ 
+h1 { 
+color: red; 
+text-align: center; 
+} 
