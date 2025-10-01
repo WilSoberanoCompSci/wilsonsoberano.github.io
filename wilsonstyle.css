@@ -2,7 +2,7 @@ wilsonstyle.css
 
 /* Apply background color to the whole page */ 
 body { 
-background-color: lightyellow; 
+background-color: goldenrod; 
 font-family: Arial, sans-serif; 
 } 
 /* Make all paragraphs blue */ 
@@ -15,3 +15,4 @@ h1 {
 color: red; 
 text-align: center; 
 } 
+
